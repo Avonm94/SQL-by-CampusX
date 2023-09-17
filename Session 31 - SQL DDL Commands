@@ -1,0 +1,56 @@
+URL: https://www.youtube.com/watch?v=ny1mh6VUpnQ&list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&index=101&ab_channel=CampusX
+
+What is SQL?
+
+SQL (Structured Query Language) is a programming language used for managing and manipulating data in relational databases. 
+It allows you to insert, update, retrieve, and delete data in a database. 
+It is widely used for data management in many applications, websites, and businesses. In simple terms, SQL is used to communicate with and control databases.
+
+
+Data Integrity:
+
+Data integrity in databases refers to the accuracy, completeness, and consistency of the data stored in a database. 
+It is a measure of the reliability and trustworthiness of the data and ensures that the data in a database is protected from errors, corruption, or unauthorized changes.
+There are various methods used to ensure data integrity.
+
+Constraints: Constraints in databases are rules or conditions that must be met for data to be inserted, updated, or deleted in a database table. 
+             They are used to enforce the integrity of the data stored in a database and to prevent data from becoming inconsistent or corrupted.
+
+Transactions: a sequence of database operations that are treated as a single unit of work.
+
+Normalization: a design technique that minimizes data redundancy and ensures data consistency by organizing data into separate tables.
+
+Constraints in MySQL:
+
+Constraints in databases are rules or conditions that must be met for data to be inserted, updated, or deleted in a database table. 
+They are used to enforce the integrity of the data stored in a database and to prevent data from becoming inconsistent or corrupted.
+
+1. NOT NULL
+2. UNIQUE(combo)
+-> Another way of creating constraint
+3. PRIMARY KEY
+4. AUTO INCREMENT
+5. CHECK
+6. DEFAULT
+7. FOREIGN KEY
+
+Referential Actions
+1. RESTRICT
+2. CASCADE
+3. SET NULL
+4. SET DEFAULT
+
+
+ALTER TABLE Command:
+
+The "ALTER TABLE" statement in SQL is used to modify the structure of an existing table. Some of the things that can be done using the ALTER TABLE statement include.
+
+1. Add columns
+2. Delete columns
+3. Modify columns
+
+Editing and Deleting Constraints
+1. Add
+2. Delete
+3. Edit (Not Applicable)
+
